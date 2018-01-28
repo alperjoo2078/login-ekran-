@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
             string u, p;
             u = txtusername.Text;
             p = txtpassword.Text;
-            if (u == "alperjoo" && p == "34108034698")
+            if (u == "alperjoo" && p == "1234")
                 MessageBox.Show("Giriş Onaylandı");
             else
             {
